@@ -8,7 +8,7 @@ This Dockerfile can build containers capable to use systemd.
 Branches
 --------
 
-This repository has multiple branches that relate to CentOS versions.
+This repository has multiple branches that relate to RockyLinux versions.
 
 |Branch |Rocky Linux Version|Docker image tag|
 |-------|-------------------|----------------|
