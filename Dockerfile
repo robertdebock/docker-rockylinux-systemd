@@ -1,7 +1,7 @@
-FROM rockylinux/rockylinux:8
+FROM rockylinux/rockylinux:9
 
 LABEL maintainer="Robert de Bock <robert@meinit.nl>"
-LABEL build_date="2022-01-03"
+LABEL build_date="2022-10-15"
 
 ENV container=docker
 
