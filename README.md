@@ -12,7 +12,9 @@ This repository has multiple branches that relate to RockyLinux versions.
 
 |Branch |Rocky Linux Version|Docker image tag|
 |-------|-------------------|----------------|
-|master |latest (8)         |8               |
+|7      |7                  |7               |
+|8      |8                  |8               |
+|master |9                  |latest          |
 
 Pull strategy
 -------------
